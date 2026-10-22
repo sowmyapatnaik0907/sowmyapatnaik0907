@@ -33,23 +33,12 @@ Hi! I'm **Sowmya**, a BCA student interested in data analytics and data engineer
 
 ## 📂 Featured Projects
 
-### 🚕 Uber Ride Analytics — Power BI
+## 🚀 Latest Projects
 
-An interactive dashboard exploring ride data and business performance.
+<!-- PROJECTS:START -->
+_Your latest repositories will appear here automatically._
+<!-- PROJECTS:END -->
 
-[View Project](https://github.com/sowmyapatnaik0907/UBER_DATA_ANALYTICS)
-
-### 🛒 E-Commerce Customer Churn Analysis — SQL
-
-Exploring customer churn using SQL queries and data analysis.
-
-[Explore My Repositories](https://github.com/sowmyapatnaik0907?tab=repositories)
-
-### 📊 Sales Report Analysis — Python
-
-Analyzing sales data to discover trends and useful insights.
-
-[Explore Projects](https://github.com/sowmyapatnaik0907?tab=repositories)
 
 ## 📈 GitHub Statistics
 
